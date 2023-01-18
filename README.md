@@ -5,9 +5,8 @@ It has been known to fail often nowadays.
 
 ![Image](https://user-images.githubusercontent.com/42693458/213308285-495ae3a9-35c6-4323-9521-ffbd998d37fb.jpg)
 
-
 Parts required : 
-6 x 74LS166 in a SOIC 16 package 
+6 x 74LS166 in a SOIC 16 package
 6 x 104 caps in 0603 package (for SMD version) 
 2 x 20 round pin header
 
